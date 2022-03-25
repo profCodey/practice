@@ -1,5 +1,5 @@
 # practice
 
-Tis is a new version
+THis is a new version
 
-hELLO GUYS
+Hello Guys
